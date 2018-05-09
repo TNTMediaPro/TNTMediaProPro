@@ -1,0 +1,1631 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.11.1",
+    "uniqCompNum": 14,
+    "versionPublish": "4.1.7",
+    "name": "TNTMediaProductions",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/tnt-logo-new-1-1600x1600-25.png",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "TNTMediaPro",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "header4-0",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tnt-new-screen-land-1280x720-65.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MOBIRISE WEBSITE BUILDER",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Products.html\" data-toolbar=\"-mbrBtnMove\">DETONATE</a> "
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tnt-2018-1280x720.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-c"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tnt-2018-1280x720.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-d"
+        },
+        {
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "social-buttons2-1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tnt-new-screen-blank-1280x720-52.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f0f0f0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/TNTMediaPro\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/TNTMediaProductions/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/explore/tags/yesiamthedesigner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "contacts3",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tnt-new-screen-1-1280x720-13.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.8
+          },
+          "text1": "<strong style=\"line-height: 1.7em;\">CONTACTS</strong><br>\nEmail: info@tntmediapro.com<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/TNTMediaProductions/\" class=\"text-white\">Facebook</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://twitter.com/TNTMediaPro\" class=\"text-white\">Twitter</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.instagram.com/explore/tags/yesiamthedesigner/\" class=\"text-white\">Instagram</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "tebogolosaba@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>"
+        }
+      ]
+    },
+    "Products.html": {
+      "settings": {
+        "title": "Products",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/spring%20jumpoff%20all%20black_banner-1999x791.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/Bcgfnyr_djA?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=Bcgfnyr_djA&feature=em-upload_owner",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/spring-jumpoff-all-white-main-2-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Spring Jump Off AllWhite 2017",
+          "text": "<p>Vetkuk Vs Mahoota</p><p>Mahungra Carwash Bloemfontien</p><p>02 Sept 2017</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.youtube.com/watch?v=Bcgfnyr_djA&amp;feature=em-upload_owner\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-9"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-17",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tnt-logo-new-1-1600x1600-48.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TNTMediaPro</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Products.html\">PRODUCTS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Past Art.html\">PAST ART</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-10",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/06-jan-banner-2000x791.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/06-jan-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "FLYER PACKAGES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Fully tailored flyer packages designed to best suit your marketing roll out plan for your business or event, inorder to help boost your target reach.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Packages.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-22",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2017-04-06-photo-00000004-2000x2831.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/x6Tf4Vs24-c",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "ANIMATION PROMO AD",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Flyer Packages can be animated into promo work to help sustain the anticipation for your big day.</p><p>THE D&amp;D Festival&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Packages.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/facebook-banner-1819x720.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/WnodRAi-rxI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Animated Promo ad",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Royal Heritage Festival&nbsp;</p><p>08 &amp; 09 September 2017</p><p>Nandoni Dam Venda</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/GgEshO68CXE",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "CRoyal Heritage Festival | 09 September 2017 | Nandoni Dam Venda | TKZee Intro",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-4"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/GgEshO68CXE?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/GgEshO68CXE",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/MU3EiS3qEjk",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "TKZee Intro",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Royal Heritage Festival&nbsp;</p><p>09 September 2017<br></p><p>Nandoni Dam Venda.<br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-5"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "17px"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-21",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/south-side-picnic-banner-2000x791.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=kSPpLE6u6yA",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "ANIMATED TEASER PROMO",
+          "meta": "DStv iRock Music Fest Teaser Promo : September 2015",
+          "text": "<p>Flyer Packages can be animated into promo work to help sustain the anticipation for you big day.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Packages.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lulo-cafe-2-2000x2000.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/fQ8ovpCx3WM",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "Logo Intro",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Customized Animated Logo Intro</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-12",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ma-e-banner-960x379-16.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=p_DuMLtSbqQ",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "ALBUM SINGLE TEASER",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Ma-E : &nbsp;King Pin&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Packages.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-9",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/03-july-851x315-99.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=s4IvKqvrAso",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "3D FLOOR PLAN",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. A 3D render preview of your venues proposed floor plan for a clear visual presentation of what to expect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Packages.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_name": "slider2",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            },
+            "H1": {
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/001-mae-township-counsellor-cd-backer-1280x1108-69.png",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": false,
+                "title": "ALBUM SLEEVE",
+                "showText": false,
+                "text": "Unique Album Single art work tailored to what you invision also with an optiontion to animate it.",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/06-mae-township-counsellor-cd-backer-1280x1108-35.png",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/04-mae-township-counsellor-cd-inlay-1280x1108-51.png",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/00-mae-township-counsellor-cd-backer-1280x1108-75.png",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_anchor": "slider2-15",
+          "articleLayout": true
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/songs-about-you-1890x1890.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/printing-specs-2-bok-inner-2000x1387.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/songs-about-you-back-copy-1890x1890.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-2"
+        },
+        {
+          "_name": "contacts3",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tnt-new-screen-1-1280x720-13.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.8
+          },
+          "text1": "<strong style=\"line-height: 1.7em;\">CONTACTS</strong><br>\nEmail: info@tntmediapro.com<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/TNTMediaProductions/\" class=\"text-white\">Facebook</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://twitter.com/TNTMediaPro\" class=\"text-white\">Twitter</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.instagram.com/explore/tags/yesiamthedesigner/\" class=\"text-white\">Instagram</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "tebogolosaba@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>"
+        }
+      ]
+    },
+    "Past Art.html": {
+      "settings": {
+        "title": "Past Art"
+      },
+      "components": [
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/ff-2018-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ff-2018-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-10-06-at-11.49.42-am-1280x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-10-06-at-11.49.42-am-1280x1280-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/28-oct-1-ava-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/28-oct-1-ava-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/shimza-tron-2-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/shimza-tron-2-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/believe-1400x1400-mtn-logo-1400x1400.png",
+                "thumb": "@PROJECT_PATH@/assets/images/believe-1400x1400-mtn-logo-1400x1400-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/the-kings-way-logos-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/the-kings-way-logos-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/crazy-icon-copy-1600x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crazy-icon-copy-1600x1600-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/28-oct-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/28-oct-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-a"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/cry-main-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cry-main-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/spring-jumpoff-all-white-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/spring-jumpoff-all-white-2000x2000-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/african-queen-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/african-queen-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fck-up-ur-day-2-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/fck-up-ur-day-2-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thabsie-live-amp-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/thabsie-live-amp-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/searching-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/searching-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pantsula-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/pantsula-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/the-stirup-ava-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/the-stirup-ava-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-b"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/16-sep-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/16-sep-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/21-oct-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/21-oct-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29-june-copy-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/29-june-copy-800x800-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jidena-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/jidena-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/02-sept-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/02-sept-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/09-sept-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/09-sept-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10-march-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/10-march-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/25-aug-1600x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/25-aug-1600x1600-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-8"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/12052553-10153713840449680-9013724118155705358-o-1080x1080-11-1080x1080-5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12052553-10153713840449680-9013724118155705358-o-1080x1080-11.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/11054402-10153450570789680-4686994885100509751-n-640x640-23-640x640-56.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11054402-10153450570789680-4686994885100509751-n-640x640-23.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/10407670-10153090556464680-8674464332511195006-n-640x640-71-640x640-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10407670-10153090556464680-8674464332511195006-n-640x640-71.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/11045505-10153450570449680-8635415686751518035-n-640x640-83-640x640-78.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11045505-10153450570449680-8635415686751518035-n-640x640-83.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/11401097-10153403198399680-2076356771263792306-n-640x640-46-640x640-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11401097-10153403198399680-2076356771263792306-n-640x640-46.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/11049481-10153173521864680-1131576338479443591-n-640x640-5-640x640-47.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11049481-10153173521864680-1131576338479443591-n-640x640-5.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/11257180-10153921898274680-7023295446358836461-o-1080x1080-65-1080x1080-77.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11257180-10153921898274680-7023295446358836461-o-1080x1080-65.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/10606036-10152815382894680-1584975171388900669-n-640x640-67-640x640-13.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10606036-10152815382894680-1584975171388900669-n-640x640-67.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/10532776-10152623320719680-3017383230592241058-n-640x640-61-640x640-58.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10532776-10152623320719680-3017383230592241058-n-640x640-61.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/10408671-10153432526189680-2478110258806368505-n-640x640-99-640x640-24.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10408671-10153432526189680-2478110258806368505-n-640x640-99.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/10314522-10153282282864680-4287018606516086585-n-640x640-73-640x640-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10314522-10153282282864680-4287018606516086585-n-640x640-73.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/1393866-10153114609134680-4132776012251986511-n-640x640-17-640x640-72.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1393866-10153114609134680-4132776012251986511-n-640x640-17.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/1235296-10151938799209680-130072393-n-640x640-99-640x640-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1235296-10151938799209680-130072393-n-640x640-99.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1202-60-1200x1202-58.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1202-60.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/12132564-10153698696119680-3463939529157387386-o-1080x1080-55-1080x1080-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12132564-10153698696119680-3463939529157387386-o-1080x1080-55.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/12095028-10153689587969680-764695812415357894-o-1080x1080-91-1080x1080-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12095028-10153689587969680-764695812415357894-o-1080x1080-91.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/12091383-10153689588774680-1322266735979246419-o-1080x1080-37-1080x1080-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12091383-10153689588774680-1322266735979246419-o-1080x1080-37.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/11947980-10153643346429680-2557680444270362935-o-1080x1080-71-1080x1080-87.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11947980-10153643346429680-2557680444270362935-o-1080x1080-71.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/11700557-10153478634669680-8839324993171951140-o-1000x1000-40-1000x1000-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11700557-10153478634669680-8839324993171951140-o-1000x1000-40.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/11329780-10153382940309680-6507800009635592991-n-640x640-93-640x640-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11329780-10153382940309680-6507800009635592991-n-640x640-93.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/11100353-10153274939144680-8462962776604206175-n-640x640-17-640x640-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11100353-10153274939144680-8462962776604206175-n-640x640-17.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/10959349-10153100443449680-8653627484209602892-n-640x640-83-640x640-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10959349-10153100443449680-8653627484209602892-n-640x640-83.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/12525508-10153924281569680-7105211558147954745-o-1080x1080-15-1080x1080-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12525508-10153924281569680-7105211558147954745-o-1080x1080-15.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1214-7-1200x1214-61.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1214-7.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1202x1200-96-1202x1200-33.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1202x1200-96.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1206-83-1200x1206-92.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1206-83.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1198x1202-22-1198x1202-93.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1198x1202-22.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1202x1204-16-1202x1204-81.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1202x1204-16.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1204x1208-31-1204x1208-74.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1204x1208-31.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1200-39-1200x1200-22.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1200-39.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1200-63-1200x1200-62.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1200-63.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1206x1234-17-1206x1234-21.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1206x1234-17.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1202-87-1200x1202-38.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1202-87.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1202x1200-16-1202x1200-99.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1202x1200-16.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1204x1200-44-1204x1200-29.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1204x1200-44.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1202x1200-45-1202x1200-41.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1202x1200-45.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1202-20-1200x1202-33.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1202-20.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1202x1200-75-1202x1200-6.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1202x1200-75.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1204-51-1200x1204-16.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1200x1204-51.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1242x1208-88-1242x1208-95.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1242x1208-88.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1204x1202-11-1204x1202-21.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1204x1202-11.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1202x1204-18-1202x1204-11.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1202x1204-18.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1198x1206-50-1198x1206-90.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1198x1206-50.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1206x1204-82-1206x1204-71.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-06-09-at-1-1206x1204-82.png",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery1-16",
+          "articleLayout": false
+        },
+        {
+          "_styles": {},
+          "_name": "video1",
+          "_anchor": "video1-23",
+          "_params": {
+            "showText": true,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=V7aqyFLo2m4",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "2014 Showreel"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-17",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tnt-logo-new-1-1600x1600-48.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TNTMediaPro</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Products.html\">PRODUCTS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Past Art.html\">PAST ART</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    }
+  }
+}
